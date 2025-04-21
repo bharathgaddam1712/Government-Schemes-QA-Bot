@@ -41,12 +41,26 @@
 
 <table align="center">
   <tr>
-    <td align="center"><b>End-to-End Architecture</b><br><img src="figures/rag_pipeline.png" width="80%" /></td>
-  </tr>
-  <tr>
-    <td align="center"><b>Streamlit QA Interface</b><br><img src="figures/streamlit_ui.png" width="80%" /></td>
+    <td align="center"><b>Streamlit QA Interface</b><br><img src="figures/01.jpg" width="80%" /></td>
   </tr>
 </table>
+
+<div style="margin-top: 50px;"></div>
+
+<table align="center">
+  <tr>
+    <td align="center"><b>Streamlit Chat Interface</b><br><img src="figures/02.jpg" width="80%" /></td>
+  </tr>
+</table>
+
+<div style="margin-top: 50px;"></div>
+
+<table align="center">
+  <tr>
+    <td align="center"><b>Q&A Terminal Interface</b><br><img src="figures/03.jpg" width="80%" /></td>
+  </tr>
+</table>
+
 
 ---
 
@@ -55,7 +69,49 @@
 ### Clone and Set Up
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/SchemesSage.git
-cd SchemesSage
+git clone https://github.com/bharathgaddam1712/ProdigalAi_ML_Assignment.git
+cd RAG-Q&A
+```
+
+
+
+### Requirements
+
+```bash
+pip install requirements.txt
+```
+
+### Secret Keys
+
+```bash
+GOOGLE_API_KEY=
+PINECONE_API_KEY=
+```
+
+### Run Locally (Using Terminal)
+
+```bash
+python main.py
+```
+
+### Run Streamlit Interface 
+
+```bash
+streamlit run streamlit.py
+```
+
+
+## 🎥 Demo Video  
+[RAG-Q&A Video_File](https://drive.google.com/file/d/1zDoS61gSsha6_qU0TpK6UHeJmjdauEbL/view?usp=sharing) *(Demo Video of the project)*  
+
+
+
+  
+
+
+
+
+
+
 
 
