@@ -27,7 +27,7 @@
 
 ### Overview
 
-**Schemes Sage** is a Retrieval-Augmented Generation (RAG)-based QA system designed to simplify access to Indian government schemes using natural language queries. Users can search by state, tags, or keywords, and receive accurate, filtered answers directly from a curated CSV-based knowledge base.
+**Schemes Sage** is a Retrieval-Augmented Generation (RAG)-based QA system designed to simplify access to Indian government schemes using natural language queries. Users can search by state, tags, or keywords, and receive accurate, filtered answers directly from a curated CSV-based knowledge base.It also uses **Hypothetical Document Expansion(HyDE)**,for efficient retreival of data from VectorDB.
 
 ### Key Features
 
