@@ -100,6 +100,24 @@ python main.py
 streamlit run streamlit.py
 ```
 
+--- 
+
+## Results
+
+
+The QA model was evaluated using **BERTScore**, which measures semantic similarity between predicted and ground truth answers.
+It is evaluated on **ground_truth.csv** file which contains 20 Questions & Ground_Truth Answers.
+
+<table align="center">
+  <tr>
+    <td align="center"><b>Evalution Metrics</b><br><img src="figures/Prodigal.png" width="80%" /></td>
+  </tr>
+</table>
+
+
+
+
+
 
 ## 🎥 Demo Video  
 [RAG-Q&A Video_File](https://drive.google.com/file/d/1zDoS61gSsha6_qU0TpK6UHeJmjdauEbL/view?usp=sharing) *(Demo Video of the project)*  
