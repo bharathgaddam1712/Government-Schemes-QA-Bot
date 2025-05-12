@@ -1,27 +1,4 @@
 
-<div align="center">
-    <h1>
-    Prodigal.Ai ML Assignment
-    </h1>
-    <b><em>RAG-based Government Schemes QA Bot</em></b>
-    <br><br>
-   
-<a href="https://deepmind.google/technologies/gemini/">
-    <img src="https://img.shields.io/badge/Gemini-1.5+-black" alt="Gemini">
-</a>
-<a href="https://pypi.org/project/langchain/">
-    <img src="https://img.shields.io/badge/LangChain-0.1+-blueviolet" alt="LangChain">
-</a>
-<a href="https://pypi.org/project/streamlit/">
-    <img src="https://img.shields.io/badge/Streamlit-1.35.0-red" alt="Streamlit">
-</a>
-<a href="https://www.pinecone.io/">
-  <img src="https://img.shields.io/badge/Pinecone-VectorDB-blue" alt="Pinecone">
-</a>
-</p>
-</div>
-
----
 
 ## Schemes QA Bot 🧠
 
